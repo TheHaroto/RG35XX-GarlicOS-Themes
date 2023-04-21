@@ -13,3 +13,5 @@ https://github.com/TheHaroto/RG35XX-GarlicOS-Retro-Theory-Theme
 
 # Waves Theme: 
 https://github.com/TheHaroto/RG35XX-GarlicOS-Waves-Theme
+
+![Waves Showcase](https://user-images.githubusercontent.com/131164472/233558977-7e8bd675-4e39-48f1-a9d2-0f8cd1e6d859.gif)
