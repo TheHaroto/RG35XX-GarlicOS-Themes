@@ -10,8 +10,5 @@ Retro Theory Theme:  https://github.com/TheHaroto/RG35XX-GarlicOS-Retro-Theory-T
 
 **************************************************
 
-Waves Theme:
-
-
-
+# Waves Theme: 
 https://github.com/TheHaroto/RG35XX-GarlicOS-Waves-Theme
