@@ -19,3 +19,12 @@ https://github.com/TheHaroto/RG35XX-GarlicOS-Waves-Theme
 This theme also has multiple colour options. Screenshots for these are above or at the link below.
 
 ![Waves Showcase](https://user-images.githubusercontent.com/131164472/233558977-7e8bd675-4e39-48f1-a9d2-0f8cd1e6d859.gif)
+
+
+**************************************************
+
+# Night Shade Theme: 
+
+https://github.com/TheHaroto/RG35XX-GarlicOS-Night-Shade
+
+![Nightshade Showcase](https://user-images.githubusercontent.com/131164472/233910807-8b269adc-b907-44ce-b42a-e6c40ed0d549.gif)
