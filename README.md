@@ -37,7 +37,7 @@ https://github.com/TheHaroto/RG35XX-GarlicOS-Night-Shade
 
 **************************************************
 
-!Useful Links
+# Useful Links
 
 RG35XX Starter Guide by Retro Game Corps (This has the steps on how to install Garlic OS and add things such as box art) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
 
