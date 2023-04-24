@@ -3,10 +3,9 @@
 A collection of themes that have been created for the community to use with GarlicOS on their RG35XX devices.
 
 
-Note
+Note: These themes will only work on the RG35XX with GaricOS
 
-    These only work with the Anbernic RG35XX installed with Garlic OS
-    Use at your own risk.
+Install these themes are your own risk. We have however provided installation guides with each download, and we do recommend backing up your data before installation!
 
 **************************************************
 
