@@ -2,6 +2,12 @@
 
 A collection of themes that have been created for the community to use with GarlicOS on their RG35XX devices.
 
+
+Note
+
+    These only work with the Anbernic RG35XX installed with Garlic OS
+    Use at your own risk.
+
 **************************************************
 
 # Retro Theory Theme:  
@@ -28,3 +34,15 @@ Note: This theme also has multiple colour options. Screenshots for these are abo
 https://github.com/TheHaroto/RG35XX-GarlicOS-Night-Shade
 
 ![Nightshade Showcase](https://user-images.githubusercontent.com/131164472/233910807-8b269adc-b907-44ce-b42a-e6c40ed0d549.gif)
+
+**************************************************
+
+!Useful Links
+
+RG35XX Starter Guide by Retro Game Corps (This has the steps on how to install Garlic OS and add things such as box art) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
+
+Garlic OS Download- https://www.patreon.com/posts/garlicos-for-76561333
+
+RG35XX Sub Reddit - https://www.reddit.com/r/RG35XX/
+
+RG35XX Themes and More - https://www.rg35xx.com/
