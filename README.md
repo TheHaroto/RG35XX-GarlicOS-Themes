@@ -41,7 +41,7 @@ https://github.com/TheHaroto/RG35XX-GarlicOS-Night-Shade
 
 https://github.com/TheHaroto/RG35XX-GarlicOS-Purple-Circuit-Theme
 
-![Purple Circuit Theme](https://user-images.githubusercontent.com/131164472/234552224-f51cb387-5202-4bac-b85c-dbd8dba55524.gif)
+![Purple Circuit Theme](https://user-images.githubusercontent.com/131164472/234568005-ee68befb-6c94-4aeb-9624-6132fd503250.gif)
 
 
 **************************************************
